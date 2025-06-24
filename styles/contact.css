@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+    color: black;
+  }
+  
+  header {
+    background-color: lightgray;
+  }
+  
+  main {
+    padding: 20px;
+  }
